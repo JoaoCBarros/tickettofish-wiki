@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktickettofish_wiki=self.webpackChunktickettofish_wiki||[]).push([[9647],{8122:(e,s,t)=>{t.r(s),t.d(s,{default:()=>h});t(6540);var i=t(4164),r=t(1082),c=t(204),u=t(2831),a=t(1410),k=t(4848);function h(e){return(0,k.jsx)(r.e3,{className:(0,i.A)(c.G.wrapper.docsPages),children:(0,k.jsx)(a.A,{children:(0,u.v)(e.route.routes)})})}}}]);
