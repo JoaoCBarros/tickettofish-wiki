@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktickettofish_wiki=self.webpackChunktickettofish_wiki||[]).push([[125],{9234:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/tickettofish-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
